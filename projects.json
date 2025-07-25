@@ -1,0 +1,26 @@
+[
+{
+    "id": 1,
+    "name": "Roblox Survival Horror Framework (Lua)",
+    "description": "A modular and lightweight first-person equipment system for Roblox, built to streamline survival horror and FPS development. Features a clean Luau OOP architecture, dynamic ViewModels, and customizable keybinds.",
+    "technologies": ["Lua", "Roblox Studio", "OOP"],
+    "github_url": "https://github.com/victorebouvie/survivalhorror-framework",
+    "live_url": ""
+},
+{
+    "id": 2,
+    "name": "Portfolio API (Python)",
+    "description": "A lightweight RESTful API built with Flask to serve portfolio project data in JSON format. It powers the frontend portfolio website by providing dynamic content via HTTP endpoints.",
+    "technologies": ["Python", "Flask", "JSON", "REST"],
+    "github_url": "https://github.com/victorebouvie/python-portfolio-api",
+    "live_url": ""
+},
+{
+    "id": 3,
+    "name": "Portfolio Frontend (JavaScript)",
+    "description": "A static yet dynamic portfolio site that fetches real-time project data from a Flask API. Built to showcase skills and provide live project previews.",
+    "technologies": ["HTML", "CSS", "JavaScript", "Fetch API"],
+    "github_url": "https://github.com/victorebouvie/js-portfolio-frontend",
+    "live_url": ""
+}
+]
