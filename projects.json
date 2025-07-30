@@ -40,13 +40,11 @@
     {
         "id": 4,
         "name": "GitHub Portfolio Updater (Python)",
-        "description": "Keeping a portfolio up-to-date can be a repetitive task. For every new project, one must manually update the database or source code that feeds the portfolio website. This tool was built to eliminate that manual work.  The **GitHub Portfolio Updater** is an automation script that acts as a personal assistant. By providing the URL of one of your GitHub projects, the tool clones the repository, intelligently extracts key information from its `README.md` (like the project name, description, and technologies), and then updates, commits, and pushes this information to a separate repository that serves as the \"database\" for your portfolio API.  In short, it turns your `README.md` into the single source of truth for your projects, automating the entire portfolio update workflow.",
+        "description": "Keeping a portfolio up-to-date can be a repetitive task. For every new project, one must manually update the database or source code that feeds the portfolio website. This tool was built to eliminate that manual work.",
         "technologies": [
-            "Automation_Tool",
+            "Automation Tool",
             "JavaScript",
-            "MIT",
             "Python",
-            "TECHNOLOGY_NAME"
         ],
         "github_url": "https://github.com/victorebouvie/github-portfolio-updater",
         "live_url": ""
