@@ -43,7 +43,6 @@
         "description": "Keeping a portfolio up-to-date can be a repetitive task. For every new project, one must manually update the database or source code that feeds the portfolio website. This tool was built to eliminate that manual work.",
         "technologies": [
             "Automation Tool",
-            "JavaScript",
             "Python"
         ],
         "github_url": "https://github.com/victorebouvie/github-portfolio-updater",
