@@ -20,7 +20,6 @@ A lightweight RESTful API built with Flask to serve portfolio project data from 
 *   [API Endpoints](#%EF%B8%8F-api-endpoints)
     *   [Get Projects](#get-apiprojects)
     *   [Submit Contact Form](#post-apicontact)
-*   [Project Structure](#-project-structure)
 
 ---
 
