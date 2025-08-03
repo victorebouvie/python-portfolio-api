@@ -1,6 +1,9 @@
 # Portfolio API (Python/Flask)
 
-![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)![Framework](https://img.shields.io/badge/Framework-Flask-black?style=for-the-badge&logo=flask)![Type](https://img.shields.io/badge/Type-REST_API-green?style=for-the-badge&logo=json)![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
+![Framework](https://img.shields.io/badge/Framework-Flask-black?style=for-the-badge&logo=flask)
+![Type](https://img.shields.io/badge/Type-REST_API-green?style=for-the-badge&logo=json)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
 A lightweight RESTful API built with Flask to serve portfolio project data from a JSON file and handle contact form submissions via email.
 
